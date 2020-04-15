@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/boxed/iommi-repl.it)](https://repl.it/github/boxed/iommi-repl.it)
+
 # Developing iommi+Django on Repl.it
 
 - Fork this template to get started
